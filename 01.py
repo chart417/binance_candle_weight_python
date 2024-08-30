@@ -3,8 +3,8 @@ import pprint
 import pandas as pd
 
 binance = ccxt.binance(config={
-    'apiKey' : 'uL3nagEPE29lrGrnN9qOxPe2Q1YugWwfLGWumaAjqu5jG1NqAr7MfANSqbmgfJPY',
-    'secret' : 'neDkJwGjMnSjRtDeDPZmgjxbI51fZFn8hxmU5BEKRgmQFI2LfGRAcrhRDPRtxbvR',
+    'apiKey' : '',
+    'secret' : '',
     'enableRateLimit' : True,
     'options' : {
         'defaultType' : 'future'
