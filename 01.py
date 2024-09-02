@@ -94,7 +94,7 @@ print("start volume : ", go_volume_start)
 print("current price :", go_price)
 print("current extra volume :", go_volume)
 
-# ch_p_4_birthday_gmil : H_1_! : GHY63KIDXQ6AYKQC : gmil_f2 : nrpx qhtz f3kl n2oa umek quni y3d4 k7bw
+# ch_p_4_birthday_gmil : H_1_! : GHY63KIDXQ6AYKQC : gmil_f2 : t3wm yxrp fdvu qx54 65bi pbwj 4exb foj5
 # my_b(ameria_bread)_77_gmil : H_1_! : 35J4OTE7ZYHZYB5R : sxbm nbhh jnuk krup 7cku hxpg fdzn hlla
 # 0x097B54505dD6C5c8054D8E10FA1aec8818D27Cf5   bird_move_right
 # 0x09fE5ee1FC5644fC6d092b36c7cB1C20Ea7AC546   bro_bird_edge
