@@ -99,3 +99,4 @@ print("current extra volume :", go_volume)
 # 0x097B54505dD6C5c8054D8E10FA1aec8818D27Cf5   bird_move_right
 # 0x09fE5ee1FC5644fC6d092b36c7cB1C20Ea7AC546   bro_bird_edge
 # ast   rom dev7 hot   Butterfl
+# jiro_katsuo   hea
