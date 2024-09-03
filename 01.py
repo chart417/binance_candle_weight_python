@@ -100,3 +100,15 @@ print("current extra volume :", go_volume)
 # 0x09fE5ee1FC5644fC6d092b36c7cB1C20Ea7AC546   bro_bird_edge
 # ast   rom dev7 hot   Butterfl
 # jiro_katsuo   hea
+
+
+# jokwo's skp      live:senior.webdeveloper2017
+# Oobro's skp      live:.cid.693c580689439060
+# liang's skp      live:.cid.888d9675171a4aca
+
+
+# roman_dev7 : 6P4FINZW7EETUEE5
+# roman_dev7 : E7U6I7HLB3QFC5WE
+# roman_dev7 : 3IAMAQAIU2HHPYNL
+# roman_dev trading_vew : U2TF 3443 DUVA ELJK
+# roman_dev trading_vew backedup : rnEFctcd 20elpqWg WrzM3zSL jLYIMj2E uOuZVqIh 4KtIddx9
